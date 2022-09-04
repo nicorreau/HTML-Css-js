@@ -1,0 +1,31 @@
+#titulo-principal{ 
+    text-align: center;
+
+}
+
+.subtitulo {
+    color: #5e8837
+}
+
+/*
+Comentarios
+*/
+
+#contenedor-imagen {
+    border: 1px solid red;
+    margin: 50px;
+    padding-left: 40%;
+}
+
+nav {
+    text-align: center;
+}
+
+nav a {
+    /** Quitar subrayados */
+    text-decoration: none;
+    color: rgb(40,91,40);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
